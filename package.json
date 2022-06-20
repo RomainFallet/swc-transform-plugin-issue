@@ -1,0 +1,7 @@
+{
+  "devDependencies": {
+    "@swc/cli": "^0.1.57",
+    "@swc/core": "^1.2.204",
+    "@swc/plugin-transform-imports": "^0.7.0"
+  }
+}
